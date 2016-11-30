@@ -1,0 +1,24 @@
+{
+  "name": "webpack-try",
+  "version": "1.0.0",
+  "description": "A colorful H5 player!(thanks for Apalyer what I learn a lot from)",
+  "main": "index.js",
+  "dependencies": {
+    "less": "^2.7.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^6.5.3",
+    "css-loader": "^0.26.0",
+    "eslint-loader": "^1.6.1",
+    "less": "^2.7.1",
+    "less-loader": "^2.2.3",
+    "postcss-loader": "^1.1.1",
+    "style-loader": "^0.13.1",
+    "url-loader": "^0.5.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "juny",
+  "license": "MIT"
+}
